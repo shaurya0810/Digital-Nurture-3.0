@@ -1,0 +1,2 @@
+git remote add origin https://github.com/shaurya0810/repo.git
+git push origin main
