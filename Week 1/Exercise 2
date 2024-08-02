@@ -1,0 +1,4 @@
+git clone https://github.com/werkamsus/Lilith.git
+cd Lilith
+git log
+git show commit_hash
